@@ -1,0 +1,7 @@
+C:\Users\Timmy\source\repos\TimmysCarSimulator\TimmysCarSimulator\bin\Debug\TimmysCarSimulator.exe.config
+C:\Users\Timmy\source\repos\TimmysCarSimulator\TimmysCarSimulator\bin\Debug\TimmysCarSimulator.exe
+C:\Users\Timmy\source\repos\TimmysCarSimulator\TimmysCarSimulator\bin\Debug\TimmysCarSimulator.pdb
+C:\Users\Timmy\source\repos\TimmysCarSimulator\TimmysCarSimulator\obj\Debug\TimmysCarSimulator.csprojAssemblyReference.cache
+C:\Users\Timmy\source\repos\TimmysCarSimulator\TimmysCarSimulator\obj\Debug\TimmysCarSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Timmy\source\repos\TimmysCarSimulator\TimmysCarSimulator\obj\Debug\TimmysCarSimulator.exe
+C:\Users\Timmy\source\repos\TimmysCarSimulator\TimmysCarSimulator\obj\Debug\TimmysCarSimulator.pdb
